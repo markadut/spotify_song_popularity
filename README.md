@@ -1,3 +1,3 @@
-# spotify_song_popularity
+Predicting Song Popularity Using Spotify's Audio Features Data
 
 This Machine Learning project aims to predict the popularity of an unheard song using Spotify's Audio Features data. The Jupyter Notebook environment and Python 3.8 has been used. Figures have been generated using both Matplotlib and Seaborn. The machine learning pipelines have been created using Scikit-learn. GridSearchCV has been used for hyperparameter tuning (cross-validation). Furthermore, SHAP (SHapley Additive exPlanations) library has been used for a game theoretic approach to explain global and local feature importances. Please refer to the .yml file in the repo to run the Jupyter notebook locally. 
